@@ -1,5 +1,0 @@
-For doing the analysis of Toronto neighborhoods , I need to figure out the apt location to set up a Adult Living Community. I would be using two types of data for this:
-1. The postal codes of different Toronto neighborhoods from Wikipedia. https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
-This is a list of postal codes in Canada where the first letter is M. Postal codes beginning with M are located within the city of Toronto in the province of Ontario
-
-2. Four square data : Will use the Four square data to determine the most common venues in each neighborhood and then sort it by distance and popularity to find the best possible place to set up the Adult Living Community
