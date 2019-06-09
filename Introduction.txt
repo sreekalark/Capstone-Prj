@@ -1,3 +1,0 @@
-Hello
-
-I want to use my skills in Data Analysis & Machine Learning and find out a neighborhood in Toronto which would be apt for building an Adult Living Community. When looking out for such a neighborhood, the things that I would like are – proximity to hospital, healthy eateries nearby (not fast food), libraries, museums, park, away from busy school communities etc.
